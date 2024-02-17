@@ -11,7 +11,7 @@ This account is an anonymous account for ACL 2024.
 
 ## Dataset
 
-The datasets are the tokenized version provided by [Jiacheng Ye](https://github.com/memray/seq2seq-keyphrase).
+The datasets are the tokenized version provided by [Jiacheng Ye](https://github.com/jiacheng-ye/kg_one2set).
 
 
 ## Inference

@@ -2,6 +2,7 @@
 
 This account is an anonymous account for ACL 2024.
 
+
 ## Requirements    
 - openai 
 - pytorch 
@@ -32,6 +33,8 @@ python llama2_inference.py \
   --instruction "Generate keywords." \
   --auth_token YOUR_AUTH_TOKEN_HERE
 ```
+
+***All experimental results can be downloaded from  [here](https://drive.google.com/file/d/1ZtO3kPm7oc28YUK3a9-KqeRd2HauzuMq/view?usp=drive_link).***
 
 ## Evaluation
 ```bash
